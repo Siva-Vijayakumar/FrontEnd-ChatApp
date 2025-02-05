@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # frontEnd-chatApp
 # frontEnd-chatApp
 # frontEnd-chatApp
+# frontEnd-chatApp
